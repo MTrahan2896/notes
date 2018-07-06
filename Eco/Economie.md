@@ -1,3 +1,17 @@
+- [Economy](#economy)
+    - [Definitions](#definitions)
+        - [Asset](#asset)
+        - [Stock](#stock)
+        - [Separation of ownership and control](#separation-of-ownership-and-control)
+        - [Liability of corporation vs shareholders](#liability-of-corporation-vs-shareholders)
+        - [Broker](#broker)
+        - [Dividend vs Retained earning (Growth)](#dividend-vs-retained-earning-growth)
+        - [Capital](#capital)
+        - [Primary market](#primary-market)
+        - [Secondary market](#secondary-market)
+        - [Bonds](#bonds)
+    - [Good to know things](#good-to-know-things)
+        - [Bondholders vs Shareholders](#bondholders-vs-shareholders)
 
 # Economy
 
@@ -30,12 +44,16 @@
 > Shares that are sold directly by the company to a shareholder. [More](https://www.investopedia.com/terms/p/primarymarket.asp)
 
 ### Secondary market
-> Shares that are sold from another shareholder. [More]a(https://www.investopedia.com/terms/s/secondarymarket.asp)
+> Shares that are sold from another shareholder. [More](https://www.investopedia.com/terms/s/secondarymarket.asp)
 
 ### Bonds
 >A bond is a fixed income investment in which an investor loans money to an entity which borrows the funds for a defined period of time at a variable or fixed interest rate. 
 
->P.S. Bondholders are in priority in case of a bankruptcy. On the other hand, shareholders are the last in priority order. "Sell before some drama shit happen :D "
+## Good to know things
+
+### Bondholders vs Shareholders
+> Bondholders are in priority in case of a bankruptcy. On the other hand, shareholders are the last in priority order. "Sell before some drama shit happen :D "
 [More](https://www.investopedia.com/terms/b/bond.asp)
 
-> P.S.2 Greater risk mean greater reward : Stocks have historically returned around 8-10% annualized, while bonds return 5-7%.
+> Greater risk mean greater reward : Stocks have historically returned around 8-10% annualized, while bonds return 5-7%.
+
