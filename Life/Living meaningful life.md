@@ -130,4 +130,4 @@ So keep in mind that if you underestimate this essential, you won't be able to  
 ## Contribution
 
 ### Utility
-As you row, something amazing tends to happen: you have more of yourself to give. It's an incredible cycle: the more you grow, the more you can help others grow; and the more you help others grow, the more you grow in return.
+>As you row, something amazing tends to happen: you have more of yourself to give. It's an incredible cycle: the more you grow, the more you can help others grow; and the more you help others grow, the more you grow in return.
