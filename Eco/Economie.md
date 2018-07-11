@@ -1,3 +1,5 @@
+# Economy
+
 - [Economy](#economy)
     - [Definitions](#definitions)
         - [Asset](#asset)
@@ -12,8 +14,6 @@
         - [Bonds](#bonds)
     - [Good to know things](#good-to-know-things)
         - [Bondholders vs Shareholders](#bondholders-vs-shareholders)
-
-# Economy
 
 ## Definitions
 
